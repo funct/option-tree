@@ -1,6 +1,5 @@
-<?php if (!defined('OT_VERSION')) {
-    exit('No direct script access allowed');
-}
+<?php
+
 /**
  * This is the OptionTree loader class.
  *
